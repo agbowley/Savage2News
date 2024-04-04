@@ -2,7 +2,7 @@
     "articles": [
         {
             "md": "0000_launcher-0.1.0",
-            "type": "announcement",
+            "type": "release",
             "title": "Release: Savage 2 Launcher",
             "thumb": "book.webp",
             "authors": [ "Admin" ],
