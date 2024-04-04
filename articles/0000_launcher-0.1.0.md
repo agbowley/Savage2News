@@ -1,5 +1,5 @@
 ---
-type: announcment
+type: announcement
 title: Release: Savage 2 Launcher
 banner: hell_banner.webp
 
