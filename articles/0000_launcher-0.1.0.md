@@ -1,6 +1,6 @@
 ---
-type: update
-title: Savage 2 Launcher
+type: announcment
+title: Release: Savage 2 Launcher
 banner: hell_banner.webp
 
 authors:
