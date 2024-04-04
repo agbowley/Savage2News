@@ -1,7 +1,7 @@
 ---
 type: update
 title: Savage 2 Launcher
-banner: launcher.webp
+banner: book.webp
 
 authors:
   - Admin
