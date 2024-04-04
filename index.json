@@ -2,8 +2,8 @@
     "articles": [
         {
             "md": "0000_launcher-0.1.0",
-            "type": "update",
-            "title": "Savage 2 Launcher",
+            "type": "announcement",
+            "title": "Release: Savage 2 Launcher",
             "thumb": "book.webp",
             "authors": [ "Admin" ],
             "release": "2024-03-28T09:32:24.000Z",
