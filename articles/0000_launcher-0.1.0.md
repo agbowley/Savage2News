@@ -1,7 +1,7 @@
 ---
 type: update
 title: Savage 2 Launcher
-banner: book.webp
+banner: hell_background.webp
 
 authors:
   - Admin
